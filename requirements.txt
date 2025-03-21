@@ -1,8 +1,8 @@
 streamlit
 langchain
 langchain_groq
-pymupdf
+PyMuPDF
 pdfplumber
 pytesseract
-PIL
+Pillow
 numpy
