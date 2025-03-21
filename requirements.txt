@@ -6,4 +6,4 @@ pdfplumber
 pytesseract
 Pillow
 numpy
-OpenCV
+opencv-python-headless
